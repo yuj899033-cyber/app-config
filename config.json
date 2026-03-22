@@ -1,7 +1,7 @@
 {
   "apk_jump": {
-    "enabled": true,
-    "target_package_name": "yhyting1.com",
+    "enabled": false,
+    "target_package_name": "yhyting.com",
     "target_deep_link": "",
     "fallback_url": "http://1234567"
   },
