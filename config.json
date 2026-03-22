@@ -6,7 +6,7 @@
     "fallback_url": "http://1234567"
   },
   "qq_group": {
-    "enabled": true,
+    "enabled": false,
     "qq_group_key": "1345556888"
   }
 }
