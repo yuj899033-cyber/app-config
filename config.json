@@ -1,12 +1,12 @@
 {
   "apk_jump": {
     "enabled": false,
-    "target_package_name": "wangwangdao.com",
+    "target_package_name": "wangwangdao123.com",
     "target_deep_link": "",
     "fallback_url": "https://123/123"
   },
   "qq_group": {
-    "enabled": false,
+    "enabled": true,
     "qq_group_key": "123qq123"
   }
 }
